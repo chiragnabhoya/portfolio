@@ -29,7 +29,7 @@ export function Contact() {
               className="reveal mx-auto max-w-3xl text-4xl font-bold leading-[1.05] sm:text-5xl md:text-6xl"
               data-reveal
             >
-              Hiring for a data or AI role in Germany?
+              Looking for a data or AI role in Germany?
             </h2>
             <p
               className="reveal mx-auto mt-6 max-w-xl text-lg leading-relaxed text-muted"
